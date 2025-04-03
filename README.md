@@ -24,5 +24,6 @@ i am studying data science and artificial intelligence at Khon Kaen University.
 
 ### My Contact
 
-Email: anatasin.s@kkmuail.com
+Email: anatasin.s@kkmumail.com
+
 Mobile: +66945427667
