@@ -22,8 +22,27 @@ i am studying data science and artificial intelligence at Khon Kaen University.
 
 <a href="https://github.com/AnantasinSangchai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantasinSangchai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### My Contact
-
+My Contact
+--------------------
 Email: anatasin.s@kkmumail.com
 
 Mobile: +66945427667
+
+Projects
+--------------------
+#### Stroke Risk Prediction Model Development
+- Developed a predictive model for stroke risk using machine learning algorithms, conducting Exploratory Data Analysis (EDA) to clean and preprocess data.
+- Implemented SMOTE for oversampling and undersampling techniques to address class imbalance.
+- Fine-tuned model performance with GridSearchCV, evaluating results with metrics such as accuracy, precision, recall, and F1-score.
+- GitHub Repository: [Stroke Risk Prediction Model Development](https://github.com/AnantasinSangchai/Stroke-Risk-Prediction-Model-Development)
+#### Customer Clustering & Evaluation using Silhouette Analysis
+- Built a customer segmentation model using clustering techniques.
+- Assessed model performance using Silhouette Score to determine optimal clustering.
+- Utilized Python (Scikit-learn, Pandas, Matplotlib) for data processing and visualization.
+- GitHub Repository: [Customer Clustering & Evaluation using Silhouette Analysis](https://github.com/AnantasinSangchai/Clustering-for-Customer-Insight)
+#### Netflix Movies and TV Shows PowerBI Dashboard
+- Developed an interactive Power BI dashboard to analyze Netflix content trends.
+- Cleaned and transformed Netflix data for accuracy.
+- Created visualizations for genres, countries, content types, release years, and ratings.
+- Integrated interactive filters and a world map for global content insights.
+- GitHub Repository: [Netflix Movies and TV Shows PowerBI Dashboard](https://github.com/AnantasinSangchai/Netflix-Movies-and-TV-Shows-PowerBI-Dashboard)
